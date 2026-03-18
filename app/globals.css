@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap");
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -6,8 +8,6 @@
   --font-inter: "Inter", system-ui, sans-serif;
   --font-mono: "JetBrains Mono", "Fira Code", monospace;
 }
-
-@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap");
 
 * {
   box-sizing: border-box;
@@ -26,7 +26,6 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-/* Scrollbar styling */
 ::-webkit-scrollbar {
   width: 6px;
   height: 6px;
@@ -45,24 +44,20 @@ body {
   background: #555555;
 }
 
-/* Selection color */
 ::selection {
   background: rgba(255, 255, 255, 0.15);
   color: #ffffff;
 }
 
-/* Focus ring */
 *:focus-visible {
   outline: 1px solid #444444;
   outline-offset: 2px;
 }
 
-/* Smooth scrolling */
 html {
   scroll-behavior: smooth;
 }
 
-/* Card shimmer effect */
 .shimmer {
   background: linear-gradient(
     90deg,
@@ -74,7 +69,6 @@ html {
   animation: shimmer 2s infinite;
 }
 
-/* Gradient border utility */
 .gradient-border {
   position: relative;
 }
@@ -92,13 +86,11 @@ html {
   pointer-events: none;
 }
 
-/* Dot grid background */
 .dot-grid {
   background-image: radial-gradient(circle, #222222 1px, transparent 1px);
   background-size: 24px 24px;
 }
 
-/* Glow effects */
 .glow-green {
   box-shadow: 0 0 20px rgba(34, 197, 94, 0.15);
 }
@@ -107,7 +99,6 @@ html {
   box-shadow: 0 0 20px rgba(239, 68, 68, 0.15);
 }
 
-/* Pulse dot animation */
 @keyframes pulse-dot {
   0%,
   100% {
@@ -124,17 +115,14 @@ html {
   animation: pulse-dot 2s ease-in-out infinite;
 }
 
-/* Status bar */
 .status-bar-fill {
   transition: width 1s ease-out;
 }
 
-/* Code font */
 .font-code {
   font-family: var(--font-mono);
 }
 
-/* Noise texture overlay */
 .noise-overlay::after {
   content: "";
   position: absolute;
