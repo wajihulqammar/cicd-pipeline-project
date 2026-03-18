@@ -10,8 +10,8 @@
 
 <div align="center">
 
-[![CI](https://github.com/YOUR_USERNAME/cicd-pipeline-project/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/cicd-pipeline-project/actions/workflows/ci.yml)
-[![CD](https://github.com/YOUR_USERNAME/cicd-pipeline-project/actions/workflows/cd.yml/badge.svg)](https://github.com/YOUR_USERNAME/cicd-pipeline-project/actions/workflows/cd.yml)
+[![CI](https://github.com/wajihulqammar/cicd-pipeline-project/actions/workflows/ci.yml/badge.svg)](https://github.com/wajihulqammar/cicd-pipeline-project/actions/workflows/ci.yml)
+[![CD](https://github.com/wajihulqammar/cicd-pipeline-project/actions/workflows/cd.yml/badge.svg)](https://github.com/wajihulqammar/cicd-pipeline-project/actions/workflows/cd.yml)
 [![Node](https://img.shields.io/badge/Node-20_LTS-5FA04E?logo=node.js)](https://nodejs.org)
 [![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=next.js)](https://nextjs.org)
 [![Docker](https://img.shields.io/badge/Docker-ready-2496ED?logo=docker)](https://docker.com)
@@ -21,7 +21,7 @@
 **A production-grade CI/CD Pipeline Dashboard built to showcase DevOps skills.**  
 Automated deployments from `git push` to live URL in under 2 minutes.
 
-[**🚀 Live Demo**](https://your-app.railway.app) · [**📋 Actions**](https://github.com/YOUR_USERNAME/cicd-pipeline-project/actions) · [**🐳 Docker Hub**](#)
+[**🚀 Live Demo**](https://cicd-pipeline-project-production.up.railway.app/) · [**📋 Actions**](https://github.com/wajihulqammar/cicd-pipeline-project/actions) · [**🐳 Docker Hub**](#)
 
 </div>
 
@@ -389,6 +389,6 @@ MIT © 2024 — Built as a DevOps portfolio project.
 <div align="center">
 Built with ❤️ to showcase DevOps skills
 <br/>
-<a href="https://github.com/YOUR_USERNAME/cicd-pipeline-project">⭐ Star this repo if it helped you!</a>
+<a href="https://github.com/wajihulqammar/cicd-pipeline-project">⭐ Star this repo if it helped you!</a>
 </div>
 "test" 
