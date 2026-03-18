@@ -1,4 +1,4 @@
-name: CD — Deploy to Railway
+﻿name: CD — Deploy to Railway
 
 on:
   push:
@@ -16,6 +16,4 @@ jobs:
       - name: Verify deployment
         run: |
           echo "Railway auto-deploys from GitHub automatically"
-          echo "Commit: ${{ github.sha }}"
-          echo "Author: ${{ github.actor }}"
           echo "Deploy complete"
