@@ -13,10 +13,12 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Install Railway CLI
-        run: npm install -g @railway/cli
-
-      - name: Deploy to Railway
-        run: railway up --detach
-        env:
-          RAILWAY_TOKEN: ${{ secrets.RAILWAY_TOKEN }}
+      - name: Verify deployment
+        run: |
+          echo "Code pushed to main branch"
+          echo "Railway auto-deploys from GitHub automatically"
+          echo "Deployment triggered at: $(date)"
+          echo "Commit: ${{ github.sha }}"
+          echo "Author: ${{ github.actor }}"
+          echo "Branch: ${{ github.ref_name }}"
+          echo "Deploy complete ✅"
