@@ -17,4 +17,3 @@ jobs:
         run: |
           echo "Railway auto-deploys from GitHub automatically"
           echo "Deploy complete"
-          kg
