@@ -324,13 +324,6 @@ npm test -- --coverage      # With coverage report
 
 ---
 
-## 📸 Screenshots
-
-| Dashboard | Pipeline Activity | Tech Stack |
-|-----------|------------------|------------|
-| *(deploy to see live)* | *(deploy to see live)* | *(deploy to see live)* |
-
----
 
 ## 📋 "Zero to Live" Checklist
 
@@ -349,34 +342,6 @@ npm test -- --coverage      # With coverage report
 - [ ] Confirm Slack notification received
 - [ ] Share on LinkedIn 🎉
 
----
-
-## 💼 LinkedIn Post Template
-
-```
-🚀 Just shipped a production-grade CI/CD Pipeline Dashboard!
-
-From git push → live deployment in ~90 seconds.
-
-Here's what I built:
-✅ Next.js 14 dashboard with real-time pipeline monitoring
-✅ Docker multi-stage builds (non-root user, <200MB image)
-✅ GitHub Actions CI/CD — automated test → build → deploy
-✅ Railway deployment with health checks
-✅ Slack notifications on every deploy
-
-The pipeline:
-git push → GitHub Actions triggers → installs deps → builds → 
-runs tests → builds Docker image → deploys to Railway → 
-health check → Slack alert 🔔
-
-Tech: Next.js 14 · TypeScript · Docker · GitHub Actions · Railway · Tailwind CSS
-
-GitHub: [link]
-Live Demo: [link]
-
-#DevOps #CICD #Docker #GitHubActions #NextJS #TypeScript #OpenToWork
-```
 
 ---
 
@@ -391,4 +356,4 @@ Built with ❤️ to showcase DevOps skills
 <br/>
 <a href="https://github.com/wajihulqammar/cicd-pipeline-project">⭐ Star this repo if it helped you!</a>
 </div>
-"test" 
+
