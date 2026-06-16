@@ -21,7 +21,7 @@
 **A production-grade CI/CD Pipeline Dashboard built to showcase DevOps skills.**  
 Automated deployments from `git push` to live URL in under 2 minutes.
 
-[**🚀 Live Demo**](https://cicd-pipeline-project-production.up.railway.app](https://cicd-pipeline-project-production-b656.up.railway.app)) · [**📋 Actions**](https://github.com/wajihulqammar/cicd-pipeline-project/actions) · [**🐳 Docker Hub**](#)
+[**🚀 Live Demo**][(https://cicd-pipeline-project-production-b656.up.railway.app)] · [**📋 Actions**](https://github.com/wajihulqammar/cicd-pipeline-project/actions) · [**🐳 Docker Hub**](#)
 
 </div>
 
