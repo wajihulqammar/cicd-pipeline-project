@@ -18,7 +18,7 @@
 [![Railway](https://img.shields.io/badge/Railway-deployed-C8A4FF?logo=railway)](https://railway.app)
 [![License](https://img.shields.io/badge/License-MIT-white)](LICENSE)
 
-**A production-grade CI/CD Pipeline Dashboard built to showcase DevOps skill.**  
+**A production-grade CI/CD Pipeline Dashboard built to showcase DevOps skills.**  
 Automated deployments from `git push` to live URL in under 2 minutes.
 
 [**🚀 Live Demo**][(https://cicd-pipeline-project-production-b656.up.railway.app)] · [**📋 Actions**](https://github.com/wajihulqammar/cicd-pipeline-project/actions) · [**🐳 Docker Hub**](#)
